@@ -1,0 +1,112 @@
+
+/* gold: <td style="color:rgb(214,175,54)"> */
+/* silver: <td style="color:rgb(167,167,173)"> */
+/* bronze: <td style="color:rgb(167,112,68)"> */
+
+/* nav bar*/
+nav {
+}
+nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+nav li {
+  list-style-type: none;
+  display: inline;
+  padding-right: 5%;
+}
+
+/*table */
+table {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+tr {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+th {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+td {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+thead {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+tbody {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* mostly constant throughout pages */
+/*title */
+body {
+  background: rgb(12,12,12);
+  font-family: Overpass Mono;
+  color: rgb(243,243,243);
+}
+
+h1 {
+	text-align: center;
+	color: rgb(206,17,65);
+}
+
+/* basic link set-up */
+/* unvisited link */
+a:link {
+  color: rgb(243,243,243);
+  text-decoration: none;
+}
+/* visited link */
+a:visited {
+  color: rgb(243,243,243);
+  text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+  color: rgb(206,17,65);
+}
+/* selected link */
+a:active {
+  color: rgb(206,17,65);
+}
+
+/* basic set-up non aligned elements*/
+p {
+  font-size: small;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+footer {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h2 {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h3 {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* custom classes */
+.leaderboard {
+  text-align: center;
+  width:100%;
+}
