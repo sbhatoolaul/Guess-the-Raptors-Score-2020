@@ -1,7 +1,7 @@
 # Guess the Raptors' Score &#127798; 2020
 
 ### A Simple Summer Web Project Using HTML, CSS and Python. 
-Check out [guess-the-raptors-score/about](https://shivambhatoolaul.github.io/guess-the-raptors-score/about.html) for more information.
+Check out [guess-the-raptors-score/about](https://htmlpreview.github.io/?https://github.com/sbhatoolaul/Guess-the-Raptors-Score-2020/blob/main/about.html) for more information.
 #
 
 ### a Quick Note on How I Update the Database:
