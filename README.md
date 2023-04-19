@@ -1,7 +1,7 @@
 # Guess the Raptors' Score &#127798; 2020
 
 ### Description:
-A site Where My Friends and I Predicted Scores for the Toronto Raptors Basketball Team in 2020. Check out [guess-the-raptors-score/about](https://htmlpreview.github.io/?https://github.com/sbhatoolaul/Guess-the-Raptors-Score-2020/blob/main/about.html) for more information.
+A Site Where My Friends and I Predicted Scores for the Toronto Raptors Basketball Team in 2020. Check out [guess-the-raptors-score/about](https://htmlpreview.github.io/?https://github.com/sbhatoolaul/Guess-the-Raptors-Score-2020/blob/main/about.html) for more information.
 
 ### a Quick Note on How I Update the Database:
 The game was hosted on a fairly simple static using HTML, CSS and Python, and so, I used a fairly simple method to maintain and update my database for the game, since this was my first time ever writing anything for the web. 
